@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color: rgb(34, 34, 141);
+}
+
+div {
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+}
